@@ -1,2 +1,2 @@
-# ScienceFairGame
-Development files
+# THIS IS FOR DEVELOPMENT FILES YOU NEED TO COMPILE
+# Full realeases are here: [N/A]
